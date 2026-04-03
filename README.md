@@ -10,3 +10,7 @@ EuroKey is a custom keyboard layout for Windows, built using the Microsoft Keybo
 2.  **Extract**: Unzip the downloaded compressed archive to a folder of your choice.
 3.  **Install**: Open the decompressed folder, right-click `setup.exe`, and select **Run as administrator**.
 4.  **Restart**: Reboot your computer to apply the changes.
+
+## Layout
+
+<img width="1448" height="518" alt="layout" src="https://github.com/user-attachments/assets/84202768-ff48-4ed0-a063-10ce20504f06" />
