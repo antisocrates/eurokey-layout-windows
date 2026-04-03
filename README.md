@@ -1,5 +1,8 @@
 # eurokey-layout-windows
-EuroKey Keyboard Layout for Windows
+
+##EuroKey Keyboard Layout for Windows
+
+EuroKey is a custom keyboard layout for Windows, built using the Microsoft Keyboard Layout Creator (MSKLC). It provides an optimized way to type European characters and symbols directly over a standard US-QWERTY base; simply download the latest release, extract the archive, run setup.exe as an administrator, and reboot your system to finish the installation.
 
 ## Installation
 
