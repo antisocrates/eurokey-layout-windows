@@ -4,6 +4,10 @@
 
 EuroKey is a custom keyboard layout for Windows, built using the Microsoft Keyboard Layout Creator (MSKLC). It provides an optimized way to type European characters and symbols directly over a standard US-QWERTY base; simply download the latest release, extract the archive, run setup.exe as an administrator, and reboot your system to finish the installation.
 
+## Layout
+
+<img width="1448" height="518" alt="layout" src="https://github.com/user-attachments/assets/84202768-ff48-4ed0-a063-10ce20504f06" />
+
 ## Installation
 
 1.  **Download**: Get the latest compressed archive from the [Releases](../../releases) page.
@@ -11,6 +15,6 @@ EuroKey is a custom keyboard layout for Windows, built using the Microsoft Keybo
 3.  **Install**: Open the decompressed folder, right-click `setup.exe`, and select **Run as administrator**.
 4.  **Restart**: Reboot your computer to apply the changes.
 
-## Layout
+## Credits
 
-<img width="1448" height="518" alt="layout" src="https://github.com/user-attachments/assets/84202768-ff48-4ed0-a063-10ce20504f06" />
+EuroKey is a custom keyboard layout inspired by and based on the design principles of [EurKEY](https://eurkey.steffen.bruentjen.eu/) by Steffen Brüntjen.
