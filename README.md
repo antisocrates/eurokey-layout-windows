@@ -17,4 +17,4 @@ EuroKey is a custom keyboard layout for Windows, built using the Microsoft Keybo
 
 ## Credits
 
-EuroKey is a custom keyboard layout inspired by and based on the design principles of [EurKEY](https://eurkey.steffen.bruentjen.eu/) by Steffen Brüntjen.
+EuroKey is a custom keyboard layout inspired by and based on the design principles of [EurKEY](https://eurkey.steffen.bruentjen.eu/) by Steffen Brüntjen, featuring improved Windows 11 compatibility.
